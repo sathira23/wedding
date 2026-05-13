@@ -1,0 +1,24 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crestBg" x1="41" y1="32" x2="203" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#243655"/>
+      <stop offset="1" stop-color="#1F6C63"/>
+    </linearGradient>
+    <linearGradient id="crestGlow" x1="120" y1="53" x2="120" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9E5C8"/>
+      <stop offset="1" stop-color="#D9A85E"/>
+    </linearGradient>
+  </defs>
+  <rect x="26" y="24" width="188" height="188" rx="56" fill="url(#crestBg)"/>
+  <rect x="36" y="34" width="168" height="168" rx="46" stroke="rgba(255,255,255,0.22)" stroke-width="2"/>
+  <path d="M80 136C91 102 104 80 120 70C136 80 149 102 160 136" stroke="url(#crestGlow)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M75 146C94 159 109 166 120 166C131 166 146 159 165 146" stroke="#F3D6B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M95 115C99 98 108 88 120 82C132 88 141 98 145 115" stroke="#FFF8F0" stroke-width="3.8" stroke-linecap="round"/>
+  <circle cx="120" cy="119" r="12" fill="#F6E5CD"/>
+  <circle cx="89" cy="87" r="10" stroke="#F6E5CD" stroke-width="4.5"/>
+  <circle cx="151" cy="87" r="10" stroke="#F6E5CD" stroke-width="4.5"/>
+  <path d="M84 154C95 148 107 145 120 145C133 145 145 148 156 154" stroke="#F6E5CD" stroke-width="3.5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M86 174C98 167 109 163 120 163C131 163 142 167 154 174" stroke="#D9A85E" stroke-width="3.5" stroke-linecap="round" opacity="0.95"/>
+  <path d="M98 111L108 129L96 148" stroke="#F9F3ED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M142 111L132 129L144 148" stroke="#F9F3ED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

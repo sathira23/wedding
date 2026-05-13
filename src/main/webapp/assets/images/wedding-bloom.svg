@@ -1,0 +1,22 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="petal" x1="133" y1="88" x2="566" y2="611" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D7CC"/>
+      <stop offset="1" stop-color="#DAB26E"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="224" y1="214" x2="553" y2="585" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EB4A7"/>
+      <stop offset="1" stop-color="#1F6C63"/>
+    </linearGradient>
+  </defs>
+  <circle cx="510" cy="210" r="92" fill="#F7E9E1" opacity="0.9"/>
+  <circle cx="602" cy="118" r="36" fill="#F2D29A" opacity="0.65"/>
+  <path d="M162 611C213 514 283 464 372 461C456 459 534 515 562 611" stroke="url(#petal)" stroke-width="23" stroke-linecap="round"/>
+  <path d="M302 218C314 160 351 125 414 119C401 177 364 212 302 218Z" fill="url(#leaf)" opacity="0.82"/>
+  <path d="M222 306C235 252 270 223 332 219C319 272 284 303 222 306Z" fill="url(#leaf)" opacity="0.72"/>
+  <path d="M410 296C463 275 510 286 548 332C494 353 448 341 410 296Z" fill="#E6C488" opacity="0.75"/>
+  <path d="M173 441C248 391 329 383 415 415C357 471 276 480 173 441Z" fill="url(#petal)" opacity="0.56"/>
+  <path d="M390 431C460 395 527 401 592 451C522 491 455 484 390 431Z" fill="#F3DFD0" opacity="0.66"/>
+  <path d="M483 545C534 517 586 523 636 562C585 591 534 585 483 545Z" fill="url(#leaf)" opacity="0.38"/>
+  <path d="M154 145C203 120 254 125 306 160C258 190 207 186 154 145Z" fill="#E5C58D" opacity="0.48"/>
+</svg>
