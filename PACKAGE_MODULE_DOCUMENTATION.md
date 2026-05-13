@@ -56,7 +56,7 @@ A: The DAO uses left joins for display so the package still loads safely. When s
 
 **Q: How do you manage database errors?**
 A: Low-level SQL `SQLException`s are wrapped into a `DataAccessException`, and the service logs the error before surface-level controllers display a user-friendly message.
-
+Pull Shark practice update
 **Q: How is the package update process protected from unauthorized changes?**
 A: The service checks package ownership, and controllers reject edits when the current user is not the organizer and not an admin.
 
